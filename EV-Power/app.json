@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "EV Power",
+    "slug": "EV Power",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "orientation": "portrait", 
+    "extra": {
+      "eas": {
+        "projectId": "f8e3485e-45a5-4b73-834e-e6cb2188827c"
+      }
+    }
+  },
+  "name": "EV Power"
+}
